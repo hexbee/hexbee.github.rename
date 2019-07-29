@@ -6,10 +6,19 @@
     <description>Recent content in Static site generators on HexBee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 23:22:53 +0800</lastBuildDate>
     
 	<atom:link href="https://hexbee.github.io/categories/static-site-generators/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hosting Hugo on Github</title>
+      <link>https://hexbee.github.io/2019/07/hosting-hugo-on-github/</link>
+      <pubDate>Mon, 29 Jul 2019 23:22:53 +0800</pubDate>
+      
+      <guid>https://hexbee.github.io/2019/07/hosting-hugo-on-github/</guid>
+      <description>&lt;p&gt;这篇文章主要介绍如何在Github Page上部署Hugo静态博客。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Build a blog site by using Hugo and Nginx</title>

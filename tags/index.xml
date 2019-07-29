@@ -6,10 +6,28 @@
     <description>Recent content on HexBee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 23:22:53 +0800</lastBuildDate>
     
 	<atom:link href="https://hexbee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>github</title>
+      <link>https://hexbee.github.io/tags/github/</link>
+      <pubDate>Mon, 29 Jul 2019 23:22:53 +0800</pubDate>
+      
+      <guid>https://hexbee.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://hexbee.github.io/tags/hugo/</link>
+      <pubDate>Mon, 29 Jul 2019 23:22:53 +0800</pubDate>
+      
+      <guid>https://hexbee.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Git</title>
@@ -53,15 +71,6 @@
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hexbee.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://hexbee.github.io/tags/hugo/</link>
-      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hexbee.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     

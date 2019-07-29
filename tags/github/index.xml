@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on HexBee&#39;s Blog</title>
+    <link>https://hexbee.github.io/tags/github/</link>
+    <description>Recent content in github on HexBee&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2019 23:22:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://hexbee.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hosting Hugo on Github</title>
+      <link>https://hexbee.github.io/2019/07/hosting-hugo-on-github/</link>
+      <pubDate>Mon, 29 Jul 2019 23:22:53 +0800</pubDate>
+      
+      <guid>https://hexbee.github.io/2019/07/hosting-hugo-on-github/</guid>
+      <description>&lt;p&gt;这篇文章主要介绍如何在Github Page上部署Hugo静态博客。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
