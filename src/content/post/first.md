@@ -1,7 +1,12 @@
 ---
 title: "First"
-date: 2019-07-29T20:28:45+08:00
+date: 2019-04-18T13:15:26+08:00
 draft: true
 ---
 
-This is the 1st post!
+# Hello Hugo
+
+1. https://www.gohugo.org/
+1. aaa
+1. bbb
+1. ccc
