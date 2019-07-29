@@ -6,10 +6,19 @@
     <description>Recent content on HexBee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 23:22:53 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 23:55:39 +0800</lastBuildDate>
     
 	<atom:link href="https://hexbee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://hexbee.github.io/categories/test/</link>
+      <pubDate>Mon, 29 Jul 2019 23:55:39 +0800</pubDate>
+      
+      <guid>https://hexbee.github.io/categories/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Static site generators</title>
